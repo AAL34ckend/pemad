@@ -1,3 +1,5 @@
+Jalankan php artisan db:seed
+
 index(): Metode ini digunakan untuk menampilkan halaman indeks yang berisi daftar data manajemen. Ini mengambil semua data manajemen terbaru dari database dan mengirimkannya ke view src.index.
 
 create(): Metode ini menampilkan formulir untuk membuat entri manajemen baru. Ini mengarahkan pengguna ke view src.create di mana mereka dapat mengisi detail baru untuk entri manajemen.
